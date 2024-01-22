@@ -9,11 +9,7 @@ This repository contains the code and resources for a deep learning model design
 - [Dataset](#dataset)
 - [Model Architecture](#model-architecture)
 - [Training](#training)
-- [Evaluation](#evaluation)
 - [Results](#results)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Dataset
 
@@ -40,4 +36,6 @@ The skin disease detection model is built on the EfficientNetV2 architecture. Tr
 
 The model is trained using various deep learning techniques, including transfer learning and data augmentation. Hyperparameters such as learning rate, batch size, and optimizer settings were tuned to achieve optimal performance.
 
-      
+## Results
+
+The model achieved a training accuracy of 92% and a testing accuracy of 65%. Detailed results, including confusion matrices and other metrics can fe found in the training directory.
